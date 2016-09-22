@@ -1,2 +1,5 @@
 # hello-world
-This is Sarah's test repository
+Hi guys ! 
+
+I am trying to get how Github works. 
+And having a coffee in the meantime. 
